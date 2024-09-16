@@ -5,7 +5,7 @@ image = "pedestrian 1.png"
 
 # pre-trained car classifier
 classifier_file = "car.xml"
-
+ 
 # read image into open cv
 img= cv2.imread(image)
 
